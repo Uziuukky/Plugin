@@ -1,2 +1,3 @@
-# Plugin
-Made by Uziuukky
+# Random-Teleport
+월드보더 안에 랜덤으로 텔레포트 시켜주는 명령어를 추가해주는 플러그인
+이라네요
